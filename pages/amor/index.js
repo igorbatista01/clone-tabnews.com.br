@@ -2,7 +2,7 @@ function Amor() {
     return (
         <div style={{ maxWidth: "600px", margin: "auto", padding: "20px", fontFamily: "Arial, sans-serif", lineHeight: "1.6", textAlign: "justify" }}>
             <header style={{ textAlign: "center", marginBottom: "20px" }}>
-                <h1 style={{ color: "#d9534f" }}>Carta aberta para Vitória ❤️</h1>
+                <h1 style={{ color: "#d9534f" }}>Carta aberta para Vitoria ❤️</h1>
                 <p><em>Com todo meu amor, para você.</em></p>
             </header>
 
